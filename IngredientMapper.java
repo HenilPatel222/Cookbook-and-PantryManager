@@ -1,11 +1,5 @@
 import java.util.HashMap; //import the HashMap
-/*
-Name:Henil Patel
-Student No: 7084577
-Date: 25/3/2024
 
-Assigment  3
- */
 public class IngredientMapper {
     private  HashMap<String,Integer> labeltoIdMap;  // Map to store labeltoIdmappings
     private HashMap<Integer,String>idToLabelMap; // Map to store Idtolabel mappings
