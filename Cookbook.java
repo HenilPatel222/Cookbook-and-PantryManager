@@ -2,14 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-//Main class to manage CookBook
-/*
-Name:Henil Patel
-Student No: 7084577
-Date: 25/3/2024
 
-Assigment  3
- */
 public class Cookbook {
     public Graph graph; //Graph
     public IngredientMapper imapper; //Mapper
