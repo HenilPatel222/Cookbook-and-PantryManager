@@ -2,13 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.*;
-/*
-Name:Henil Patel
-Student No: 7084577
-Date: 25/3/2024
 
-Assigment  3
- */
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc=new Scanner(System.in);
